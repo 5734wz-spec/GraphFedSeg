@@ -1,0 +1,3 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: markdown-it-py in /opt/conda/lib/python3.8/site-packages (1.1.0)
+Requirement already satisfied: attrs<22,>=19 in /opt/conda/lib/python3.8/site-packages (from markdown-it-py) (21.4.0)
